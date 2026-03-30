@@ -1,0 +1,9 @@
+{
+  "name": "Clubman ERP",
+  "description": "Enterprise-grade Modular Monolith ERP for Club and Hospitality Management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
